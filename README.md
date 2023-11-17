@@ -1,8 +1,6 @@
  Hi there 👋
 
 
-**SoumyaDeori/SoumyaDeori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
  <h1> Hello, I'm Soumya... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
