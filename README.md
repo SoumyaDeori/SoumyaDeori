@@ -52,13 +52,13 @@
 **💬 My inbox is always open, Contact me. **
 <br>
 <br> 
-  <a href="www.linkedin.com/in/soumya-deori-84a361242" target="_blank">
+  <a href="www.linkedin.com/in/soumya-deori-84a361242/" target="_blank">
    <img align="left" alt="Soumya | Linkedin" width="26px" src="https://github.com/SoumyaDeori/SoumyaDeori/blob/main/Linkedin.svg" />
   </a>
   <a href="mailto:soumyadeori03@gmail.com" target="_blank">
     <img align="left" alt="Soumya | Gmail" width="26px" src="https://github.com/SoumyaDeori/SoumyaDeori/blob/main/Gmail.svg" />
   </a>
-   <a href="https://www.codingninjas.com/studio/profile/Soumya_Deori" target="_blank">
+   <a href="https://profile.codingninjas.com/6f27ce96-5047-46bb-a2b8-85a48831f724" target="_blank">
     <img align="left" alt="Soumya | CodingNinjas" width="25px" src="https://github.com/SoumyaDeori/SoumyaDeori/blob/main/coding-ninjas.svg" />
   </a>
    <a href="https://leetcode.com/SoumyaDeori/" target="_blank">
