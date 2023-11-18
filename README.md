@@ -64,6 +64,7 @@
    <a href="https://leetcode.com/SoumyaDeori/" target="_blank">
     <img align="left" alt="Soumya | leetcode" width="26px" src="https://github.com/SoumyaDeori/SoumyaDeori/blob/main/LeetCode.svg" />
   </a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SoumyaDeori-blue)](https://www.linkedin.com/in/soumya-deori-84a361242)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Soumya_Deori-orange)](https://www.codingninjas.com/studio/profile/Soumya_Deori)
 [![LeetCode](https://img.shields.io/badge/LeetCode-SoumyaDeori-yellow)](https://leetcode.com/SoumyaDeori/)
