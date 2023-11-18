@@ -58,7 +58,7 @@
   <a href="mailto:soumyadeori03@gmail.com" target="_blank">
     <img align="left" alt="Soumya | Gmail" width="26px" src="https://github.com/SoumyaDeori/SoumyaDeori/blob/main/Gmail.svg" />
   </a>
-   <a href="https://profile.codingninjas.com/6f27ce96-5047-46bb-a2b8-85a48831f724" target="_blank">
+   <a href="https://www.codingninjas.com/studio/profile/Soumya_Deori" target="_blank">
     <img align="left" alt="Soumya | CodingNinjas" width="25px" src="https://github.com/SoumyaDeori/SoumyaDeori/blob/main/coding-ninjas.svg" />
   </a>
    <a href="https://leetcode.com/SoumyaDeori/" target="_blank">
@@ -66,7 +66,7 @@
   </a>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya Deori-blue)](https://www.linkedin.com/in/soumya-deori-84a361242/)
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Soumya_Deori-orange)](https://profile.codingninjas.com/6f27ce96-5047-46bb-a2b8-85a48831f724)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Soumya_Deori-orange)](https://www.codingninjas.com/studio/profile/Soumya_Deori)
 [![LeetCode](https://img.shields.io/badge/LeetCode-SoumyaDeori-black)](https://leetcode.com/SoumyaDeori/)
 
 
