@@ -64,5 +64,12 @@
    <a href="https://leetcode.com/SoumyaDeori/" target="_blank">
     <img align="left" alt="Soumya | leetcode" width="25px" src="https://github.com/SoumyaDeori/SoumyaDeori/blob/main/LeetCode.svg" />
   </a>
+  To link your LinkedIn, Coding Ninjas, and LeetCode profiles to your GitHub README.md, you can use the following markdown format:
+
+markdown
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya Deori-blue)](www.linkedin.com/in/soumya-deori-84a361242/)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Soumya_Deori-green)](https://profile.codingninjas.com/6f27ce96-5047-46bb-a2b8-85a48831f724)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SoumyaDeori-orange)](https://leetcode.com/SoumyaDeori/)
+
 
     
